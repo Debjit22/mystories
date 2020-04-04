@@ -1,0 +1,23 @@
+
+  body
+  {
+    background-color:#75daad;
+  }
+  hr{
+    background-color: white;
+    border-style: dotted;
+    height: 0px;
+    border-width: 2px;
+    border-color: black;
+    width: 50%;
+  }
+  h2{
+     color:#216353;
+  }
+  h3{
+     color:#216353;
+     text-shadow: 1px 1px;
+  }
+  .dav{
+    background-color: green;
+  }
